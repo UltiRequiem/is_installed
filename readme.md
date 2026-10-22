@@ -2,21 +2,22 @@
 
 Check if a binary is installed.
 
+## Install
+
+```sh
+npm install @ultirequiem/is-installed
+```
+
 ## Usage
 
-### [Deno 🦕](https://deno.land/x/REPO)
+ESM only, types included: the same import works in Node.js, Bun and browsers.
 
 ```javascript
-import { isInstalled } from "https://deno.land/x/is_installed/mod.ts";
+import { isInstalled } from "@ultirequiem/is-installed";
 
 await isInstalled("ls"); //=> true
 await isInstalled("non-existing-command"); //=> false
 ```
-
-## Documentation
-
-Is hosted on [Deno Doc](https://doc.deno.land/https://deno.land/x/is_installed)
-📄
 
 ## Versioning
 
