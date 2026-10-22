@@ -2,6 +2,11 @@
 
 Check if a binary is installed.
 
+[![npm](https://img.shields.io/npm/v/@ultirequiem/is-installed?logo=npm&color=cb3837)](https://www.npmjs.com/package/@ultirequiem/is-installed)
+[![npm downloads](https://img.shields.io/npm/dm/@ultirequiem/is-installed?color=cb3837)](https://www.npmjs.com/package/@ultirequiem/is-installed)
+[![CI](https://github.com/UltiRequiem/is_installed/actions/workflows/ci.yaml/badge.svg)](https://github.com/UltiRequiem/is_installed/actions/workflows/ci.yaml)
+[![codecov](https://codecov.io/gh/UltiRequiem/is_installed/graph/badge.svg)](https://codecov.io/gh/UltiRequiem/is_installed)
+
 ## Install
 
 ```sh
