@@ -1,6 +1,6 @@
 # is_installed
 
-Check if a binary is installed.
+Check whether a program is installed.
 
 [![npm](https://img.shields.io/npm/v/@ultirequiem/is-installed?logo=npm&color=cb3837)](https://www.npmjs.com/package/@ultirequiem/is-installed)
 [![npm downloads](https://img.shields.io/npm/dm/@ultirequiem/is-installed?color=cb3837)](https://www.npmjs.com/package/@ultirequiem/is-installed)
